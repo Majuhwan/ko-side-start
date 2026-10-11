@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://side-start.howlane.com/sitemap.xml
